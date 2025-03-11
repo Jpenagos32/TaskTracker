@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TaskTracker:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TaskTracker_jar</output-path>
+    <root id="archive" name="TaskTracker.jar">
+      <element id="module-output" name="TaskTracker" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/dependencies/gson-2.12.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
